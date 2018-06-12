@@ -3,3 +3,5 @@
 - Avocados
 - Salt
 - Onions
+- Tomatoes 
+- Pepper
